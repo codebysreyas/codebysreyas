@@ -1,5 +1,7 @@
 # 💫 About Me:
-i am curretnly pusring bca with ai/ml specalization at IZee businnes schhol under bangalore university
+I am a BCA student specializing in AI/ML, passionate about learning how real-world software and intelligent systems work.  
+I enjoy building small projects, exploring automation, and improving my skills in programming, backend development, and cloud technologies.  
+Currently focusing on strengthening my fundamentals while working toward building impactful projects in AI and software development.
 
 
 ## 🌐 Socials:
